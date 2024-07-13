@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ee634a8d-69f0-42e6-9058-6c4ce9618f89)
+<img width="293" alt="image" src="https://github.com/user-attachments/assets/af1e4375-eb81-4beb-a323-adc3ecbc83f6">
 
 - 👋 Hi, I’m Abdullajon Odilov, Python Backend Engineer & Project Manager
 - 👀 I’m an experienced Python Backend Developer with 2,5 years
@@ -22,7 +22,7 @@ automation projects in two months.
 -Collaborated with the teaching team to create inclusive learning environments and implement effective teaching strategies.
 
 **Skills:**
-- Experience in using FastAPI and Django REST API (familiar with Flask)
+- Experience in using FastAPI and Django, REST API, (familiar with Flask)
 - Experience with PostgreSQL, MySql, and SQL databases.
 - Understanding Pandas, NumPy.
 - Experienced in working with WebSockets.
