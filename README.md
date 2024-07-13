@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/b7db3abf-89b6-45b7-8905-8a0310bfa1e5)
+![image](https://github.com/user-attachments/assets/ee634a8d-69f0-42e6-9058-6c4ce9618f89)
+
 - 👋 Hi, I’m Abdullajon Odilov, Python Backend Engineer & Project Manager
 - 👀 I’m an experienced Python Backend Developer with 2,5 years
 - 🌱 I work as a backend developer, focusing on creating and maintaining high-performance web applications, Telegram bots, and projects across various domains using Python, FastAPI, Aiogram, and Django.
@@ -20,7 +21,15 @@ automation projects in two months.
 -Conducted home visits to assess individual progress and provide personalized feedback to each student.
 -Collaborated with the teaching team to create inclusive learning environments and implement effective teaching strategies.
 
-Technologies: ![image](https://github.com/user-attachments/assets/fffdcf5d-9420-4d71-81c8-e0fa7853e66c)
+**Skills:**
+- Experience in using FastAPI and Django REST API (familiar with Flask)
+- Experience with PostgreSQL, MySql, and SQL databases.
+- Understanding Pandas, NumPy.
+- Experienced in working with WebSockets.
+- Good understanding of HTML and CSS and confident in using GitHub.
+- Experienced in working with Aiogram and creating Telegram bots, Docker.
+- Collaborative with great communication skills.
+- Understanding and experience in Project Management.
 
 
 - 📫 How to reach me odilovabdullajon0@gmail.com
