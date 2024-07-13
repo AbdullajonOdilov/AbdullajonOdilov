@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbdullajonOdilov
+- 👋 Hi, I’m Abdullajon Odilov, Python Backend Engineer & Project Manager
 - 👀 I’m an experienced Python Backend Developer with 2,5 years
 - 🌱 I work as a backend developer, focusing on creating and maintaining high-performance web applications, Telegram bots, and projects across various domains using Python, FastAPI, Aiogram, and Django.
 - 💞️ I’m looking to collaborate on ...
