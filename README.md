@@ -4,7 +4,8 @@
 - 👀 I’m an experienced Python Backend Developer with 2,5 years
 - 🌱 I work as a backend developer, focusing on creating and maintaining high-performance web applications, Telegram bots, and projects across various domains using Python, FastAPI, Aiogram, and Django.
 - 💞️ I’m looking to collaborate on ...
-- 💼 Work experience 
+
+💼 Work experience 
 
 **Project manager & CEO at ITIS TEAM**
 -Founded and led ITIS TEAM, delivering successful commercial projects and contributing to the
@@ -32,7 +33,7 @@ automation projects in two months.
 - Understanding and experience in Project Management.
 
 
-- 📫 How to reach me odilovabdullajon0@gmail.com
+📫 How to reach me odilovabdullajon0@gmail.com
 
 My leetcode profile: - <img width="350" alt="image" src="https://github.com/user-attachments/assets/49b8d909-8980-41e2-bd76-b967c8f8c4b2">
 
