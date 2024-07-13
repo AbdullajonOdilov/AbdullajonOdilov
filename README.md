@@ -20,6 +20,8 @@ automation projects in two months.
 -Collaborated with the teaching team to create inclusive learning environments and implement effective teaching strategies.
 
 - 📫 How to reach me odilovabdullajon0@gmail.com
+- <img width="350" alt="image" src="https://github.com/user-attachments/assets/49b8d909-8980-41e2-bd76-b967c8f8c4b2">
+
 
 
 <!---
